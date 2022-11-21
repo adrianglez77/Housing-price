@@ -9,7 +9,7 @@ Descripción de los archivos:
     .- readme.md: archivo de información.
     .- requirements.txt: fichero que contiene las librerías y versiones utilizadas en el proyecto.
 
-DOI de Zenodo:
+Zenodo:
     
-    .-
-
+    .- https://zenodo.org/record/7342443#.Y3uZdHbP2Uk
+    .- DOI: 10.5281/zenodo.7342443
